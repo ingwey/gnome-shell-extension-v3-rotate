@@ -1,0 +1,8 @@
+{
+  "name": "V3 Rotate",
+  "description": "Rotate Minisforum V3 via button click from activity center",
+  "uuid": "v3rotate@ingwey.gnome.extension.de",
+  "shell-version": [
+    "47"
+  ]
+}
